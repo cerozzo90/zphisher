@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.mypos.com	TRUE	/	FALSE	1999999999	csfp_d	MzQ3MGRhY2IyZGY3ZWY1Zjg4YjI2Y2Y1NzFmNWQ1ODM3Njg5MjI3MTZkYTMxNDIyZGE4ZDE5MWM5MmFkYzYyOQ%3D%3D
+.mypos.com	TRUE	/	FALSE	1999999999	csfp_d_sid	4de910234f63e06ef0f3c9135d4d9ad14017a30ca48c5a48ca29c1c8b24e015b
+merchant.mypos.com	TRUE	/	FALSE	1999999999	samesite	lax
+.mypos.com	TRUE	/	FALSE	1999999999	_cfuvid	O6w8AK_Dxf1DzYNXofQkWryuYBRbfYxUxX30u1UN030-1753566439386-0.0.1.1-604800000
+mypos.com	TRUE	/	FALSE	1999999999	prod_PHPSESSID	434oo6fbimkgm0l94211v4enn2
+merchant.mypos.com	TRUE	/	FALSE	1999999999	SameSite	lax
+
